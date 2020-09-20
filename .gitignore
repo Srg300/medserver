@@ -1,0 +1,20 @@
+# .gitignore
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+/medserver/media/*
+/medserver/static/*
+/venv_medserver
+.DS_Store
+.vscode
+.idea
+*.pid
+*.db
+*.rdb
+*.sqlite3
+/.github
+.git
+
